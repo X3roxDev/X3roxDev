@@ -106,16 +106,6 @@ goals:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=X3roxDev&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3roxDev&layout=compact&hide_border=true&border_radius=12&title_color=ffffff&text_color=ffffff&bg_color=000000&langs_count=8" alt="Most used languages"/>
-
-<br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=X3roxDev&theme=dark&hide_border=true&border_radius=12&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub streak"/>
-
-<br>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=X3roxDev&bg_color=000000&color=ffffff&line=ffffff&point=888888&area=true&area_color=222222&hide_border=true&radius=12" alt="Contribution graph"/>
 
 </div>
