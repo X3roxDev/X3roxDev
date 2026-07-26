@@ -32,61 +32,30 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Cybersecurity+Student;Building+Backend+Solutions;Creating+FiveM+Resources;Developing+Desktop+Applications;Open+Source+Enthusiast" />
+
+</div>
+
 ```yaml
 name: X3roxDev
-title: Full-Stack Developer & Cybersecurity Student
-based_in: Czech Republic
+role: Full-Stack Developer & Cybersecurity Student
+location: Czech Republic 🇨🇿
 
 focus:
-  - Backend Development
-  - Cybersecurity
-  - FiveM Development
-  - Desktop Applications
-  - Web Technologies
-  - Automation
+  - 🛡️ Cybersecurity
+  - ⚙️ Backend Development
+  - 🎮 FiveM Development
+  - 🖥️ Desktop Applications
+  - 🤖 Automation
 
-tech_stack:
-  languages:
-    - Python
-    - Lua
-    - JavaScript
-    - TypeScript
-    - C#
-    - PHP
-    - C++
+currently:
+  - 📚 Learning Offensive Security
+  - 🚀 Building Open-Source Projects
+  - 💡 Exploring Modern Technologies
 
-  frameworks:
-    - Node.js
-    - Express
-    - React
-    - .NET
-    - Docker
-
-currently_learning:
-  - Offensive Security
-  - Defensive Security
-  - Linux Administration
-  - Secure Software Development
-  - Networking
-  - Cloud Technologies
-
-working_on:
-  - Open Source Projects
-  - Cybersecurity Tools
-  - Windows Utilities
-  - FiveM Resources
-  - Developer Automation
-
-goals:
-  - Build fast, secure and scalable software
-  - Contribute to the open-source community
-  - Expand my cybersecurity expertise
-  - Develop tools that solve real-world problems
-
-philosophy:
-  "Write clean code. Build secure systems. Never stop learning."
-
-status: "Always building something new 🚀"
+motto: "Code • Secure • Innovate"
 ```
 
 ---
