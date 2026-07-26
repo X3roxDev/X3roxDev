@@ -81,14 +81,14 @@ goals:
 </td>
 <td align="center" width="33%">
 
-### ⚙️ Frameworks
+### 🚀 Frameworks
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,dotnet,docker,redis,sqlite,postgres&theme=dark" />
 
 </td>
 <td align="center" width="33%">
 
-### 🛡️ Tools
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,bash,powershell,git,github,vscode&theme=dark" />
 
@@ -98,9 +98,10 @@ goals:
 
 <br>
 
-> **Backend • Cybersecurity • FiveM Development • Web Applications • Desktop Tools • Automation**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&lines=Backend+%E2%80%A2+Cybersecurity;FiveM+Development+%E2%80%A2+Automation;Web+Applications+%E2%80%A2+Desktop+Tools;Python+%E2%80%A2+Node.js+%E2%80%A2+C%23;Always+Building+Something+New" alt="Typing SVG" />
 
 </div>
+
 ---
 
 ## 📊 GitHub Statistics
