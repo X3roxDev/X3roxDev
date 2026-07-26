@@ -66,24 +66,41 @@ goals:
 
 ---
 
-## 🛠️ Languages and Tools
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### Programming Languages
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=python,lua,js,ts,php,cs,cpp,html,css&theme=dark" alt="Programming languages"/>
+### 💻 Languages
 
-### Frameworks and Technologies
+<img src="https://skillicons.dev/icons?i=python,lua,js,ts,php,cs,cpp,html,css&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,dotnet,docker,redis,sqlite,postgres&theme=dark" alt="Frameworks and technologies"/>
+</td>
+<td align="center" width="33%">
 
-### Development and Security
+### ⚙️ Frameworks
 
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,bash,powershell,git,github,vscode&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,dotnet,docker,redis,sqlite,postgres&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+### 🛡️ Tools
+
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,bash,powershell,git,github,vscode&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> **Backend • Cybersecurity • FiveM Development • Web Applications • Desktop Tools • Automation**
 
 </div>
-
 ---
 
 ## 🚀 What I Build
