@@ -34,27 +34,59 @@
 
 ```yaml
 name: X3roxDev
-role: Developer & Cybersecurity Student
-location: Czech Republic
+title: Full-Stack Developer & Cybersecurity Student
+based_in: Czech Republic
 
-interests:
-  - FiveM Development
-  - Cybersecurity
+focus:
   - Backend Development
-  - Linux Servers
-  - Developer Tools
+  - Cybersecurity
+  - FiveM Development
+  - Desktop Applications
+  - Web Technologies
   - Automation
 
+tech_stack:
+  languages:
+    - Python
+    - Lua
+    - JavaScript
+    - TypeScript
+    - C#
+    - PHP
+    - C++
+
+  frameworks:
+    - Node.js
+    - Express
+    - React
+    - .NET
+    - Docker
+
 currently_learning:
-  - Cybersecurity Fundamentals
-  - Network Security
+  - Offensive Security
+  - Defensive Security
   - Linux Administration
-  - Secure Backend Development
+  - Secure Software Development
+  - Networking
+  - Cloud Technologies
+
+working_on:
+  - Open Source Projects
+  - Cybersecurity Tools
+  - Windows Utilities
+  - FiveM Resources
+  - Developer Automation
 
 goals:
-  - Build secure and optimized applications
-  - Improve my cybersecurity knowledge
-  - Create useful open-source projects
+  - Build fast, secure and scalable software
+  - Contribute to the open-source community
+  - Expand my cybersecurity expertise
+  - Develop tools that solve real-world problems
+
+philosophy:
+  "Write clean code. Build secure systems. Never stop learning."
+
+status: "Always building something new 🚀"
 ```
 
 ---
