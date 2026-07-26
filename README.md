@@ -10,15 +10,21 @@
 
 <br><br>
 
+<div align="center">
+
 <a href="https://github.com/X3roxDev">
-  <img src="https://img.shields.io/badge/GitHub-X3roxDev-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+<a href="https://tryhackme.com/p/X3roxDev">
+  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+
+<a href="https://x3roxdev.dev">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
+</div>
 
 <br><br>
 
