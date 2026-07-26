@@ -13,16 +13,18 @@
 <div align="center">
 
 <a href="https://github.com/X3roxDev">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-X3roxDev?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2a2a2a&color=111111" />
 </a>
 
 <a href="https://tryhackme.com/p/X3roxDev">
-  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TRYHACKME-X3roxDev?style=for-the-badge&logo=tryhackme&logoColor=ffffff&labelColor=2a2a2a&color=111111" />
 </a>
 
 <a href="https://x3roxdev.dev">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WEBSITE-VISIT?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=2a2a2a&color=111111" />
 </a>
+
+</div>
 
 </div>
 
