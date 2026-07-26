@@ -103,22 +103,6 @@ goals:
 </div>
 ---
 
-## 🚀 What I Build
-
-<div align="center">
-
-|         Category         | Projects                                                        |
-| :----------------------: | :-------------------------------------------------------------- |
-| 🎮 **FiveM Development** | ESX scripts, QBCore scripts, jobs, systems and server security  |
-|   🛡️ **Cybersecurity**  | IOC scanners, log analyzers, file scanners and monitoring tools |
-|    🐍 **Python Tools**   | Windows utilities, automation tools and network applications    |
-|  🌐 **Web Development**  | Modern frontend projects, APIs and backend security systems     |
-|   🐧 **Linux Projects**  | Server monitoring, process detection and administration tools   |
-
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
