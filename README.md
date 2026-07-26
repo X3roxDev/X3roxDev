@@ -26,8 +26,6 @@
 
 </div>
 
-</div>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=X3roxDev&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile views"/>
