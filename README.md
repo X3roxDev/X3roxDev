@@ -122,48 +122,6 @@ goals:
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=X3roxDev&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## 📂 Featured Profile
-
-<div align="center">
-
-<a href="https://github.com/X3roxDev">
-  <img src="https://github-readme-stats.vercel.app/api?username=X3roxDev&show_icons=true&hide_border=true&border_radius=12&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" alt="X3roxDev GitHub profile"/>
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/X3roxDev/X3roxDev/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
-
-</div>
-
----
-
-## 💬 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer quote"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### Thanks for visiting my profile
