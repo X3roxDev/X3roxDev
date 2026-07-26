@@ -57,13 +57,6 @@ goals:
   - Create useful open-source projects
 ```
 
-* 🔭 I’m currently building **FiveM scripts, security tools and automation utilities**
-* 🛡️ I’m interested in **Blue Team, Red Team and application security**
-* 🌱 I’m currently learning **Linux, networking and cybersecurity**
-* 🧠 I enjoy solving technical problems and experimenting with new technologies
-* ⚡ My projects focus on **security, performance and clean code**
-* 📫 You can find my public projects on [GitHub](https://github.com/X3roxDev)
-
 ---
 
 ## ⚡ Tech Arsenal
