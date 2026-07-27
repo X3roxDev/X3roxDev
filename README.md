@@ -1,114 +1,158 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:111111,100:FFFFFF&text=X3roxDev&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20FiveM%20Scripter%20%E2%80%A2%20Cybersecurity%20Student&descAlignY=60&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+FiveM+scripts+and+developer+tools;Learning+Cybersecurity+and+Linux;Creating+secure+and+optimized+projects;Always+learning+something+new" alt="Typing animation"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:000000,100:1a1a1a&text=X3roxDev&fontColor=ffffff&fontSize=70&animation=fadeIn"/>
 
 <br>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="Developer animation"/>
+> ### *"Code. Learn. Break. Build. Repeat."*
 
-<br><br>
+<br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Developer+%7C+Cybersecurity+Student;Building+Tools+For+Developers;Learning+Red+%26+Blue+Team;Always+Creating+Something+New"/>
 
-<a href="https://github.com/X3roxDev">
-  <img src="https://img.shields.io/badge/GITHUB-X3roxDev?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=2a2a2a&color=111111" />
-</a>
+<br>
 
-<a href="https://tryhackme.com/p/X3roxDev">
-  <img src="https://img.shields.io/badge/TRYHACKME-X3roxDev?style=for-the-badge&logo=tryhackme&logoColor=ffffff&labelColor=2a2a2a&color=111111" />
-</a>
-
-<a href="https://xeroxdev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/WEBSITE-VISIT?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=2a2a2a&color=111111" alt="Website" />
-</a>
-
-</div>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=X3roxDev&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/X3roxDev?label=Followers&style=for-the-badge&color=111111&logo=github&logoColor=white" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/X3roxDev?affiliations=OWNER&style=for-the-badge&color=000000&logo=github&logoColor=white&label=Total%20Stars" alt="GitHub stars"/>
+<img src="https://img.shields.io/badge/⚡_Currently-Building_Projects-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎯_Focus-Cybersecurity-111111?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Cybersecurity+Student;Building+Backend+Solutions;Creating+FiveM+Resources;Developing+Desktop+Applications;Open+Source+Enthusiast" />
-
-</div>
+# `SYSTEM_PROFILE`
 
 ```yaml
-name: X3roxDev
-role: Full-Stack Developer & Cybersecurity Student
-location: Czech Republic 🇨🇿
+User:
+  Name: X3roxDev
+  Role: Developer
+  Status: Online
 
-focus:
-  - 🛡️ Cybersecurity
-  - ⚙️ Backend Development
-  - 🎮 FiveM Development
-  - 🖥️ Desktop Applications
-  - 🤖 Automation
+Mission:
+  • Build useful software
+  • Learn offensive & defensive security
+  • Share open-source projects
 
-currently:
-  - 📚 Learning Offensive Security
-  - 🚀 Building Open-Source Projects
-  - 💡 Exploring Modern Technologies
+Experience:
+  • Python
+  • Go
+  • C#
+  • Lua
+  • JavaScript
+  • React
 
-motto: "Code • Secure • Innovate"
+Operating Systems:
+  • Windows
+  • Linux
+
+Interests:
+  • Cybersecurity
+  • Automation
+  • OSINT
+  • Networking
+  • Reverse Engineering
 ```
 
 ---
 
-## ⚡ Tech Arsenal
+# `TECH_STACK`
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,lua,js,ts,php,cs,cpp,html,css&theme=dark" />
-
-</td>
-<td align="center" width="33%">
-
-### 🚀 Frameworks
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,dotnet,docker,redis,sqlite,postgres&theme=dark" />
-
-</td>
-<td align="center" width="33%">
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,bash,powershell,git,github,vscode&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&lines=Backend+%E2%80%A2+Cybersecurity;FiveM+Development+%E2%80%A2+Automation;Web+Applications+%E2%80%A2+Desktop+Tools;Python+%E2%80%A2+Node.js+%E2%80%A2+C%23;Always+Building+Something+New" alt="Typing SVG" />
+<img src="https://skillicons.dev/icons?i=python,go,cs,cpp,lua,js,ts,nodejs,react,nextjs,tailwind,html,css,mysql,sqlite,git,github,docker,linux,windows,vscode,bash"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+# `CURRENT_OBJECTIVES`
+
+```text
+[✓] Build high-quality open-source tools
+[✓] Learn advanced Go development
+[✓] Improve Windows internals knowledge
+[✓] Study Web Security
+[✓] Practice Active Directory
+[ ] Finish more TryHackMe paths
+[ ] Obtain cybersecurity certifications
+```
+
+---
+
+# `ACTIVE_PROJECTS`
+
+```text
+> Network Scanner (Go)
+
+Status      █████████░ 90%
+
+Features
+├── TCP Scanner
+├── UDP Scanner
+├── Banner Grabbing
+├── OS Detection
+└── Export JSON / CSV
+```
+
+```text
+> Windows Privacy Spoofer
+
+Status      ████████░░ 80%
+
+Features
+├── Registry Cleaner
+├── Privacy Tweaks
+├── Telemetry
+├── Defender Info
+└── Restore Point
+```
+
+---
+
+# `GITHUB_STATS`
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=X3roxDev&bg_color=000000&color=ffffff&line=ffffff&point=888888&area=true&area_color=222222&hide_border=true&radius=12" alt="Contribution graph"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=X3roxDev&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=X3roxDev&theme=transparent&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=X3roxDev&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# `PROFILE_METRICS`
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=X3roxDev&style=for-the-badge&color=000000)
+
+![](https://img.shields.io/github/followers/X3roxDev?style=for-the-badge&color=111111)
+
+![](https://img.shields.io/github/stars/X3roxDev?affiliations=OWNER&style=for-the-badge&color=111111)
+
+</div>
+
+---
+
+# `CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/X3roxDev">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://xeroxdev.vercel.app">
+<img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<a href="https://tryhackme.com/p/X3roxDev">
+<img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme"/>
+</a>
 
 </div>
 
@@ -116,16 +160,12 @@ motto: "Code • Secure • Innovate"
 
 <div align="center">
 
-### Thanks for visiting my profile
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> STATUS : ONLINE
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Feel+free+to+explore+my+repositories;Stars+and+feedback+are+always+appreciated;Let's+build+something+great" alt="Footer typing animation"/>
-
-<br>
-
-**Developer • FiveM Scripter • Cybersecurity Student**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFFFFF,50:111111,100:000000&section=footer" width="100%"/>
+Building secure software one project at a time.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
