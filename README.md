@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=X3roxDev&label=PROFILE%20VIEWS&style=flat-square&color=000000" alt="Profile Views"/>
-</p>
-
 </div>
 
 ---
