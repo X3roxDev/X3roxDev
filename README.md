@@ -44,13 +44,3 @@ Open Source Enthusiast
 </p>
 
 ---
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=X3roxDev&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="155" src="https://streak-stats.demolab.com?user=X3roxDev&theme=transparent&hide_border=true"/>
-
-</div>
