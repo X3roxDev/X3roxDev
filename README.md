@@ -20,8 +20,8 @@
   <img src="https://img.shields.io/badge/TRYHACKME-X3roxDev?style=for-the-badge&logo=tryhackme&logoColor=ffffff&labelColor=2a2a2a&color=111111" />
 </a>
 
-<a href="https://x3roxdev.dev">
-  <img src="https://img.shields.io/badge/WEBSITE-VISIT?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=2a2a2a&color=111111" />
+<a href="https://xeroxdev.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/xeroxdev.vercel.app-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=2a2a2a" alt="Website" />
 </a>
 
 </div>
