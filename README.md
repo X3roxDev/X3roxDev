@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm X3roxDev
-
-**Developer • Cybersecurity Student • Open Source**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+X3roxDev;Developer+%26+Cybersecurity+Student;Building+Open+Source+Projects" />
 
 <p>
   <a href="https://github.com/X3roxDev">
@@ -16,31 +14,33 @@
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=X3roxDev&style=for-the-badge&color=111111&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About
 
 - 💻 Building tools & applications
-- 🔒 Learning Cybersecurity
+- 🔒 Cybersecurity Student
 - ⚡ Go • Python • JavaScript • Lua
-- 🌍 Open Source Enthusiast
+- 🌍 Open Source
 
 ---
 
-### 🛠️ Tech
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=go,python,js,ts,nodejs,react,html,css,lua,git,docker,vscode,linux&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,js,ts,nodejs,react,html,css,lua,git,docker,linux,vscode&theme=dark" />
 </p>
 
 ---
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=X3roxDev&show_icons=true&theme=transparent&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=X3roxDev&show_icons=true&theme=transparent&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=X3roxDev&theme=transparent&hide_border=true)
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=X3roxDev&theme=transparent&hide_border=true"/>
 
 </div>
