@@ -1,157 +1,112 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=X3roxDev&fontColor=FFFFFF&fontSize=52&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=X3roxDev&fontColor=FFFFFF&fontSize=56&animation=fadeIn"/>
 
 # X3roxDev
 
 ### Developer • Cybersecurity Student
 
 <p>
-  <a href="https://github.com/X3roxDev">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://tryhackme.com/p/X3roxDev">
-    <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white">
-  </a>
-  <a href="https://xeroxdev.vercel.app">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
+<a href="https://github.com/X3roxDev">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/p/X3roxDev">
+<img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<a href="https://xeroxdev.vercel.app">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;Cybersecurity+Student;Building+Modern+Tools;Open+Source+Enthusiast;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Backend+Developer;Cybersecurity+Student;Python+%7C+Go+%7C+JavaScript;Building+Open+Source+Projects"/>
 
 </div>
 
 ---
 
-# whoami
+## whoami
 
 ```console
 > whoami
 
-Name: X3roxDev
-Role: Developer
-Focus: Backend • Security • Automation
-OS: Windows / Linux
-Status: Building cool things...
+Name      : X3roxDev
+Role      : Developer
+Focus     : Backend • Security • Automation
+Languages : Python • Go • JavaScript • Lua
+Platform  : Windows / Linux
+
+Status    : Building open-source software.
 ```
 
 ---
 
-# About
+## About
 
 ```yaml
-name: X3roxDev
-location: Czech Republic
+Developer: true
+Cybersecurity: true
+OpenSource: true
 
-interests:
-  - Backend Development
-  - Cybersecurity
-  - Ethical Hacking
-  - Automation
-  - Open Source
-
-currently_learning:
+CurrentlyLearning:
   - Malware Analysis
   - Reverse Engineering
   - Cloud Security
   - Offensive Security
+
+InterestedIn:
+  - Backend Development
+  - System Programming
+  - Automation
+  - Linux
+  - Networking
 ```
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,lua,bash,cpp,cs"/>
 
-<img src="https://skillicons.dev/icons?i=python,go,js,ts,lua,cs,cpp,bash"/>
+<br><br>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet"/>
+<br><br>
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+<br><br>
 
-### Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis"/>
-
-### DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode"/>
 
 </div>
 
 ---
 
-# GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=X3roxDev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3roxDev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=X3roxDev&theme=black-ice&hide_border=true"/>
-
-</div>
-
----
-
-# Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=X3roxDev&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# Current Focus
+## Current Focus
 
 ```text
 ✓ Backend Development
 ✓ Cybersecurity
-✓ Python Projects
+✓ Python Tools
 ✓ Go Applications
-✓ FiveM Development
-✓ Open Source
-✓ Windows Tools
 ✓ Linux Utilities
+✓ FiveM Development
+✓ Automation
+✓ Open Source
 ```
 
 ---
 
-# Featured Projects
+## GitHub
 
-| Project | Description |
-|----------|-------------|
-| 🐍 Python Tools | Security & automation utilities |
-| ⚡ Go Projects | Fast CLI & networking tools |
-| 🔒 Cybersecurity | Offensive & defensive tooling |
-| 🚓 FiveM Scripts | ESX / QBCore resources |
-| 🌐 Web Apps | Modern full-stack applications |
+> ⭐ Check out my pinned repositories below.
 
 ---
-
-# Visitor Counter
 
 <div align="center">
 
@@ -163,17 +118,8 @@ currently_learning:
 
 <div align="center">
 
-```
-██████╗ ███████╗██╗   ██╗
-██╔══██╗██╔════╝██║   ██║
-██║  ██║█████╗  ██║   ██║
-██║  ██║██╔══╝  ╚██╗ ██╔╝
-██████╔╝███████╗ ╚████╔╝
-╚═════╝ ╚══════╝  ╚═══╝
-```
+**Code • Learn • Build • Repeat**
 
-*"Code. Break. Learn. Repeat."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=110&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
