@@ -1,49 +1,53 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="70%" valign="top">
-
-<br>
+<!-- Right-side image -->
+<img
+  align="right"
+  width="285"
+  height="390"
+  src="https://raw.githubusercontent.com/X3roxDev/X3roxDev/main/assets/cafe.gif"
+  alt="Cyber café"
+/>
 
 <div align="left">
-  <code>X3roxDev / README.md</code>
+
+<sub><b>X3roxDev / README.md</b></sub>
+
 </div>
 
 <br><br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=31&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&random=false&width=550&lines=Hello%2C+I'm+X3roxDev;Developer+%26+Cybersecurity+Student"
-  alt="Typing SVG"
+  width="560"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=27&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=560&height=60&lines=Hello%2C+I'm+X3roxDev;Developer+%26+Cybersecurity+Student;Welcome+to+my+GitHub+profile"
+  alt="Typing animation"
 />
 
 <br><br>
 
 <table>
-<tr>
-<td align="center">
-
-<b>💼 Developer • Cybersecurity Student</b>
-
-<br>
-
-<b>💻 Backend • Web Apps • Desktop Tools</b>
-
-<br>
-
-<b>🔐 Cybersecurity • Networking • Automation</b>
-
-<br>
-
-<b>🛠 Python • JavaScript • Lua • Go</b>
-
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <br>
+      💼 <b>Developer • Cybersecurity Student</b>
+      <br><br>
+      💻 <b>Backend • Web Apps • Desktop Tools</b>
+      <br><br>
+      🔐 <b>Cybersecurity • Networking • Automation</b>
+      <br><br>
+      🛠️ <b>Python • JavaScript • Lua • Go</b>
+      <br><br>
+    </td>
+  </tr>
 </table>
 
 <br><br>
 
-<img src="./assets/cat.gif" width="100" alt="Animated cat"/>
+<img
+  width="90"
+  src="https://raw.githubusercontent.com/X3roxDev/X3roxDev/main/assets/cat.gif"
+  alt="Animated cat"
+/>
 
 <br><br>
 
@@ -61,27 +65,15 @@
   />
 </a>
 
+<br>
+
 <a href="https://xeroxdev.vercel.app">
   <img
-    src="https://img.shields.io/badge/WEBSITE-VISIT-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
+    src="https://img.shields.io/badge/WEBSITE-VISIT-111111?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="Website"
   />
 </a>
 
-<br><br>
-
-</td>
-
-<td width="30%" valign="middle">
-
-<img
-  src="./assets/cafe.gif"
-  width="100%"
-  alt="Animated café"
-/>
-
-</td>
-</tr>
-</table>
+<br clear="both">
 
 </div>
