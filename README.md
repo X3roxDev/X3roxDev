@@ -62,14 +62,22 @@
 
 ---
 
-### GitHub Stats
+### 🔗 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=X3roxDev&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="X3roxDev GitHub Stats" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=X3roxDev&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000"
+    alt="X3roxDev GitHub Stats"
+    height="165"
+  />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3roxDev&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa" alt="Most Used Languages" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=X3roxDev&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8"
+    alt="X3roxDev Top Languages"
+    height="165"
+  />
 </p>
 
 ---
