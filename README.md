@@ -43,32 +43,6 @@
 
 ---
 
-### Socials
-
-<p align="left">
-
-<a href="https://github.com/X3roxDev" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-</picture>
-</a>
-
-<a href="https://tryhackme.com/p/X3roxDev" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/tryhackme/FFFFFF" width="32" height="32" alt="TryHackMe" title="TryHackMe" />
-</a>
-
-<a href="https://xeroxdev.vercel.app" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="32" height="32" alt="Website" title="Website" />
-</a>
-
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=X3roxDev\&color=000000\&style=flat-square\&label=PROFILE+VIEWS)
-
----
-
 ### GitHub Stats
 
 <p align="left">
